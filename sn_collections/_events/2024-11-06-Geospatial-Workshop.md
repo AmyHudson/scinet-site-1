@@ -24,7 +24,7 @@ On November 6-7, 2024, the SCINet Geospatial Research Working Group (GRWG) will 
 * Lightning talks on geospatial analyses and workflows that use SCINet resources
 * Hands-on tutorials that cover a variety of topics:
   * Applying computational methods such as environmental niche modeling and graph convolutional neural networks
-  * Using Python packages for multidimensional arrays to process geospatial data
+  * Using Python packages for multidimensional arrays to process geospatial remotely sensed data
   * Migrating your workflow to SCINet
 * Discussions on GRWG activities for the new year, including desired training topics and collaboration opportunities.
 
